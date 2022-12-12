@@ -1,0 +1,52 @@
+{
+   "signup": {
+        "name": "Hugo Facundo",
+        "cpf": "01234567899",
+        "email": "facundo@hotmail.com",
+        "whatsapp": "83123456789",
+        "address": {
+            "postalcode": "58043250", 
+            "street": "Rua das Acácias",                             
+            "number": "100",
+            "details": "Apto 1002",
+            "district": "Miramar",
+            "city_state": "João Pessoa/PB"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+        },
+    "cpf_inv": {
+        "name": "Hugo Facundo",
+        "cpf": "01234567899AA",
+        "email": "facundo@hotmail.com",
+        "whatsapp": "83123456789",
+        "address": {
+            "postalcode": "58043250", 
+            "street": "Rua das Acácias",                             
+            "number": "100",
+            "details": "Apto 1002",
+            "district": "Miramar",
+            "city_state": "João Pessoa/PB"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+        },
+    "email_inv": {
+        "name": "Hugo Facundo",
+        "cpf": "01234567899",
+        "email": "huguito.com.br",
+        "whatsapp": "83123456789",
+        "address": {
+            "postalcode": "58043250", 
+            "street": "Rua das Acácias",                             
+            "number": "100",
+            "details": "Apto 1002",
+            "district": "Miramar",
+            "city_state": "João Pessoa/PB"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+        }
+            
+        
+}
